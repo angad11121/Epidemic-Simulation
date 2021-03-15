@@ -27,4 +27,6 @@ make
 Each line consists of 4 comma separated values:
 `Day Number, Number Susceptible, Number Infected, Number Recovered`
 
-Taken out from my [IDS Repo](https://github.com/angad11121/SEM2_IDS)
+
+
+### Taken out from my [IDS Repo](https://github.com/angad11121/SEM2_IDS)
